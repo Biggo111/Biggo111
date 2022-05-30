@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Biggo Bushon Routh</h1>
 <h3 align="center">Studying Computer Science and Engineering</h3>
 
-- 🔭 I’m currently working on **JAVA Desktop Application**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **routh.biggo123@gmail.com**
 
