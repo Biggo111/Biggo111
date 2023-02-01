@@ -1,6 +1,4 @@
-### <div align="center">
-  I am Biggo, a CS background student and mobile application developer (Flutter), trying to learn new stuff. I'm also interested in Machine Learning. </div>  
-  
+
 
 <div align="center">
 <img src="https://lmichelin.fr/content/images/2019/05/5c1bb7dd5e7cc9678fcdc39f_Hello-World-Header.png" align="center" style="width: 60%" />
@@ -9,6 +7,9 @@
 
 <h1 align="center">Hi 👋, I'm Biggo</h1>
 <h3 align="center">CSE student| Mobile Application Developer(Flutter)| Interested in ML</h3>
+
+### <div align="center">
+  I am Biggo, a CS background student and mobile application developer (Flutter), trying to learn new stuff. I'm also interested in Machine Learning. </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biggo111&label=Profile%20views&color=0e75b6&style=flat" alt="Biggo111" /> </p>
 
