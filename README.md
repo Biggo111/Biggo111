@@ -28,7 +28,7 @@
 <a href="https://www.codechef.com/users/biggo_111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="biggo_111" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Big_Go" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Big_Go" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/_big_B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_big_B" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Biggo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Biggo" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user4576J/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Biggo" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/routhbiggo123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="routhbiggo123" height="30" width="40" /></a>
 </p>
 
