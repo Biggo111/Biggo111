@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Biggo Routh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Biggo Routh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/biggo-routh-81961416b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biggo-routh-81961416b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19965632" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19965632" height="30" width="40" /></a>
 <a href="https://kaggle.com/Biggo Routh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Biggo Routh" height="30" width="40" /></a>
 <a href="https://fb.com/Biggo Routh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Biggo Routh" height="30" width="40" /></a>
