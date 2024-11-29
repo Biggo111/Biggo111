@@ -6,10 +6,10 @@
   
 
 <h1 align="center">Hi 👋, I'm Biggo</h1>
-<h3 align="center">CSE student| Mobile Application Developer(Flutter)| Interested in ML</h3>
+<h3 align="center">Software Engineer | CSE Graduate | ML | DL </h3>
 
 ### <div align="center">
-  I am Biggo, a CS background student and mobile application developer (Flutter), trying to learn new stuff. I'm also interested in Machine Learning. </div>
+  I am a Software Engineer at EzyCourse, specializing in mobile application development with nearly a year of professional experience. Alongside my software engineering role, I am a research assistant at Intex Research Lab, where my work focuses on thesis-based projects leveraging machine learning, deep learning, and image processing. I am passionate about exploring innovative applications of AI in healthcare, contributing to both practical software solutions and academic research.</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biggo111&label=Profile%20views&color=0e75b6&style=flat" alt="Biggo111" /> </p>
 
